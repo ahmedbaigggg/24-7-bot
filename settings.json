@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "voltmc72.play.hosting",
-    "port": ,
+    "port": 0,
     "version": "1.20.1",
     "try-creative": false
   },
