@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "voltmc72.play.hosting",
+    "ip": "voltmc1.play.hosting",
     "port": 0,
     "version": "1.20.1",
     "try-creative": false
