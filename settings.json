@@ -2,11 +2,11 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Bot",
-    "password": "testis-gg.aternos.me",
+    "password": "password",
     "type": "offline"
   },
   "server": {
-    "ip": "",
+    "ip": "testis-gg.aternos.me",
     "port": 0,
     "version": "1.20.1",
     "try-creative": false
