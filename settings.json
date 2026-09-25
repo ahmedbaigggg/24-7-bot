@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "gg",
+    "ip": "chaosphagesmp.play.hosting",
     "port": 0,
     "version": "1.20.1",
     "try-creative": false
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "botttt123455"
     },
     "anti-afk": {
       "enabled": true,
